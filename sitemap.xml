@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url><loc>https://everyday-tools-hub.vercel.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/privacy.html</loc><changefreq>weekly</changefreq><priority>0.3</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/percentage-calculator/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/bmi-calculator/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/word-character-counter/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/text-case-converter/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/length-converter/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/temperature-converter/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/tip-bill-splitter/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://everyday-tools-hub.vercel.app/tools/password-generator/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
